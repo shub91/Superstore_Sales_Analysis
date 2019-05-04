@@ -44,7 +44,7 @@ The time series modelled was tested on how good it performs prediction of future
 
 ## Model 2 - Product recommendation System
 
-An item based recommendation engine was created based on the transaction data to help the shop recommend products to people who buy a particular product in future Collaborative filtering method was used with a similarity measure as cosine similarity The data was first converted into a suitable format(product, customer and sales) product and customer ID are label encoded in order to make the task computationally easier A matrix of product vs. users was created with values indicating number of units bought The values were normalized to bring down to a smaller scale. This was done eeping in ming the similarity measure(cosine) to be used Cosine similarity was used to assign the score to different products with respect toa given product
+An item based recommendation engine was created based on the transaction data to help the shop recommend products to people who buy a particular product in future. Collaborative filtering method was used with a similarity measure as cosine similarity. The data was first converted into a suitable format(product, customer and sales) product and customer ID are label encoded in order to make the task computationally easier. A matrix of product vs. users was created with values indicating number of units bought. The values were normalized to bring down to a smaller scale. This was done keeping in mind the similarity measure(cosine) to be used. Cosine similarity was used to assign the score to different products with respect to a given product.
 
 ## Prediction - Product recommendation System
 
