@@ -55,3 +55,5 @@ Top 10 relevant products are recommended for a given product
 A tableau workbook is created for easier punchy visualizations. There is a filter of measure - profit/sales. User can toggle between these measuers and the graphs will change accordingly.
 
 Link for dashboard: https://tabsoft.co/2UbgwBw
+
+Link for presentation: https://www.youtube.com/watch?v=SHzsYGXpPE8&feature=youtu.be
